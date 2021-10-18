@@ -2,6 +2,8 @@
 
 Projeto de Frontend desenvolvido durante a imersão Multi Stack da [TreinaWeb](http://treinaweb.com.br/) utilizando TypeScript, React e Next.js.
 
+![Frontend e-diaristas](public/img/homepage-print.png)
+
 ## Dependências do Projeto
 
 - React
